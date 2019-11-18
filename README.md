@@ -4,6 +4,12 @@ There are many sorting algorithms. Here are examples of one of the efficient O(N
 Starting from the first element compares each element with the next one. If it is sorting ascending order, swaps these two elements order by moving the smaller element to the left and larger element to the right. Repeats this process for each individual element.  
 ### Heap Sort - O(N*log(N))
 Adds all items into a heap. Pop the largest item from the heap and insert it at the end (final position). Repeat for all items.
+### Runtime Comparison
+![something](sortAlgoritmRuntimeComparison.png)
+Red: Bubble Sort  
+Green: Heap Sort
+x-axis: Number of elements
+y-axis: Runtime
 
 ---
 
