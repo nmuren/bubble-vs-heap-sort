@@ -7,8 +7,8 @@ Adds all items into a heap. Pop the largest item from the heap and insert it at 
 ### Runtime Comparison
 ![something](sortAlgoritmRuntimeComparison.png)
 Red: Bubble Sort  
-Green: Heap Sort
-x-axis: Number of elements
+Green: Heap Sort  
+x-axis: Number of elements  
 y-axis: Runtime
 
 ---
