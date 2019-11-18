@@ -5,7 +5,7 @@ Starting from the first element compares each element with the next one. If it i
 ### Heap Sort - O(N*log(N))
 Adds all items into a heap. Pop the largest item from the heap and insert it at the end (final position). Repeat for all items.
 ### Runtime Comparison
-![something](sortAlgoritmRuntimeComparison.png)
+![if you saw this, there is a hope in pentest for you ;)](sortAlgoritmRuntimeComparison.png)
 Red: Bubble Sort  
 Green: Heap Sort  
 x-axis: Number of elements  
